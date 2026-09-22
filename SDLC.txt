@@ -2,71 +2,71 @@
                               │
                               ▼
                     ┌v─────────────────┐
-                    │  1. PLANNING          │
-                    │                       │
-                    │ • Project Goal        │
-                    │ • Cost & Time         │
-                    │ • Resources           │
+                    │  1. PLANNING     │
+                    │                  │
+                    │ • Project Goal   │
+                    │ • Cost & Time    │
+                    │ • Resources      │
                     └v───────┬─────────┘
                              │
                              ▼
                   ┌─v───────────────────┐
-                  │ 2. REQUIREMENT            │
-                  │    ANALYSIS               │
-                  │                           │
-                  │ • User Registration       │
-                  │ • Login                   │
-                  │ • Search Movies           │
-                  │ • Select Theatre          │
-                  │ • Select Seats            │
-                  │ • Payment                 │
+                  │ 2. REQUIREMENT      │
+                  │    ANALYSIS         │
+                  │                     │
+                  │ • User Registration │
+                  │ • Login             │
+                  │ • Search Movies     │
+                  │ • Select Theatre    │
+                  │ • Select Seats      │
+                  │ • Payment           │
                   └─v────────┬──────────┘
                              │
                              ▼
                     ┌─v────────────────┐
-                    │ 3. SYSTEM DESIGN      │
-                    │                       │
-                    │ • UI Design           │
-                    │ • Database            │
-                    │ • Architecture        │
-                    │ • System Flow         │
+                    │ 3. SYSTEM DESIGN │
+                    │                  │
+                    │ • UI Design      │
+                    │ • Database       │
+                    │ • Architecture   │
+                    │ • System Flow    │
                     └─v──────┬─────────┘
                              │
                              ▼
                     ┌─v────────────────┐
-                    │ 4. DEVELOPMENT        │
-                    │                       │
-                    │ • Frontend            │
-                    │ • Backend             │
-                    │ • Database            │
-                    │ • APIs                │
+                    │ 4. DEVELOPMENT   │
+                    │                  │
+                    │ • Frontend       │
+                    │ • Backend        │
+                    │ • Database       │
+                    │ • APIs           │
                     └─v──────┬─────────┘
                              │
                              ▼
                     ┌─v────────────────┐
-                    │ 5. TESTING            │
-                    │                       │
-                    │ • Functional          │
-                    │ • Security            │
-                    │ • Performance         │
-                    │ • Bug Fixing          │
+                    │ 5. TESTING       │
+                    │                  │
+                    │ • Functional     │
+                    │ • Security       │
+                    │ • Performance    │
+                    │ • Bug Fixing     │
                     └─v──────┬─────────┘
                              │
                              ▼
                     ┌─v────────────────┐
-                    │ 6. DEPLOYMENT         │
-                    │                       │
-                    │ • Production          │
-                    │ • Server Setup        │
-                    │ • Release             │
+                    │ 6. DEPLOYMENT    │
+                    │                  │
+                    │ • Production     │
+                    │ • Server Setup   │
+                    │ • Release        │
                     └─v──────┬─────────┘
                              │
                              ▼
                     ┌─v────────────────┐
-                    │ 7. MAINTENANCE        │
-                    │                       │
-                    │ • Bug Fixes           │
-                    │ • Updates             │
-                    │ • New Features        │
-                    │ • Security Patch      │
+                    │ 7. MAINTENANCE   │
+                    │                  │
+                    │ • Bug Fixes      │
+                    │ • Updates        │
+                    │ • New Features   │
+                    │ • Security Patch │
                     └─v────────────────┘

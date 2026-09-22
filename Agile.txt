@@ -1,0 +1,29 @@
+                    MOVIE TICKET BOOKING SYSTEM
+                              │
+                              ▼
+                     ┌─────────────────┐
+                     │   REQUIREMENTS       │
+                     └────────┬────────┘
+                              │
+                              ▼
+                       PRODUCT BACKLOG
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+          SPRINT 1         SPRINT 2         SPRINT 3
+        User & Movie     Theatre & Show    Booking & Payment
+              │               │               │
+              ▼               ▼               ▼
+        Register/Login    Theatre Select    Seat Selection
+        Movie Listing     Show Selection    Payment
+        Search Movie      Seat Availability Confirmation
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                           TESTING
+                              │
+                              ▼
+                          DEPLOYMENT
+                              │
+                              ▼
+                         MAINTENANCE
